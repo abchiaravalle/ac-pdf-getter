@@ -1,0 +1,5 @@
+https://www.google.com
+https://www.github.com
+https://stackoverflow.com/questions/tagged/python
+https://docs.python.org/3/
+https://www.wikipedia.org/wiki/Python_(programming_language)
